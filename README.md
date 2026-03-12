@@ -6,13 +6,15 @@ The framework is designed for challenging cross-domain scenarios, where CTA data
 
 This repository currently contains part of the core training code. Additional details, complete training scripts, and related resources will be released in a future update.
 
+
+# Citation
+Citation information will be added after publication.
+
+
 # Acknowledgement
 
 This code is mainly based on [SSL4MIS](https://github.com/HiLab-git/SSL4MIS), [SAM](https://github.com/facebookresearch/segment-anything).
 
 Some of the other code is from [BCP](https://github.com/DeepMed-Lab-ECNU/BCP),  [ABD](https://github.com/Star-chy/ABD).
-
-# Citation
-Citation information will be added after publication.
 
 **Note:** The rest of the details will be released soon. Currently, only part of the core code is provided.
